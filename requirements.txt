@@ -9,6 +9,10 @@ numpy
 pandas
 scikit-learn
 
+# data viz
+matplotlib.pyplot
+seaborn
+
 # tests/linter
 black
 coverage
